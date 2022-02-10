@@ -1,0 +1,121 @@
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<table class="fr-dashed-borders" style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;">fr-dashed-borders
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<table class="fr-alternate-rows" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;">fr-alternate-rows
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br style="box-sizing: border-box; -webkit-font-smoothing: antialiased;">
+	<br style="box-sizing: border-box; -webkit-font-smoothing: antialiased;">
+	<br style="box-sizing: border-box; -webkit-font-smoothing: antialiased;">
+</p>
+
+<table class="fr-no-borders" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">fr-no-borders
+				<br>
+			</td>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">
+				<br>
+			</td>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">
+				<br>
+			</td>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">
+				<br>
+			</td>
+			<td style="width: 33.3333%; background-color: rgb(84, 172, 210);">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br style="box-sizing: border-box; -webkit-font-smoothing: antialiased;">
+	<br style="box-sizing: border-box; -webkit-font-smoothing: antialiased;">
+	<br>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
